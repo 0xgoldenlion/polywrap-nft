@@ -1,0 +1,40 @@
+{
+  "selectedChain": "5",
+  "1337": {
+    "chainId": "1337",
+    "chainName": "Localhost 8545",
+    "rpcUrls": [
+      "http://localhost:8545"
+    ],
+    "nativeCurrency": {
+      "symbol": "ETH"
+    },
+    "blockExplorerUrls": []
+  },
+  "80001": {
+    "chainId": "80001",
+    "chainName": "Polygon Testnet Mumbai",
+    "rpcUrls": [
+      "https://rpc-mumbai.maticvigil.com/"
+    ],
+    "nativeCurrency": {
+      "symbol": "MATIC"
+    },
+    "blockExplorerUrls": [
+      "https://mumbai.polygonscan.com/"
+    ]
+  },
+  "5": {
+    "chainId": "5",
+    "chainName": "Goerli",
+    "rpcUrls": [
+      "https://eth-goerli.public.blastapi.io"
+    ],
+    "nativeCurrency": {
+      "symbol": "GEtH"
+    },
+    "blockExplorerUrls": [
+      "https://goerli.etherscan.io/"
+    ]
+  }
+}
